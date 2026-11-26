@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Consolas",
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.smoothScrolling": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "workbench.startupEditor": "none",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.fontSize": 13,
+    "liveServer.settings.port": 5501
+}
